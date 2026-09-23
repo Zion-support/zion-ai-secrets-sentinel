@@ -8,10 +8,10 @@ Zion AI Secrets Sentinel — continuous secret scanning with auto-rotation runbo
 ## Related apps in the network
 
 - [Secrets Sentinel](https://github.com/Zion-support/secrets-sentinel) — secret scanning & leak response
-- [Zion AI Dependency Lifeguard](https://github.com/Zion-support/zion-ai-dependency-lifeguard) — supply-chain risk scoring
+- [Zion AI Code Reviewer](https://github.com/Zion-support/zion-ai-code-reviewer) — automated PR review and security linting
 - [Zion AI Compliance Scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) — CIS benchmarks and audit reporting
-- [Zion AI Threat Modeler](https://github.com/Zion-support/zion-ai-threat-modeler) — threat modeling
-- [Zion AI SSL Monitor](https://github.com/Zion-support/zion-ai-ssl-monitor) — certificate expiry tracking
+- [Zion AI Dependency Lifeguard](https://github.com/Zion-support/zion-ai-dependency-lifeguard) — supply-chain risk scoring
+- [SSL Config Auditor](https://github.com/Zion-support/ssl-config-auditor) — SSL/TLS configuration analysis
 
 ## Part of the Zion App Network
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
